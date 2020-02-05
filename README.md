@@ -2,7 +2,10 @@
 
 A collective list of free APIs for use in software and web development.
 
-Sponsor:
+<h1>
+  Sponsor:
+  </h1>
+
 
 <a href="https://ultimatecourses.com?utm_source=github.com"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg" style="width:50%;max-width:100%"></a>
 
